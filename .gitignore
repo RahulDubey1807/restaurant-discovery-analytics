@@ -1,0 +1,24 @@
+# Scala CLI / Metals
+.bsp/
+.metals/
+.scala-build/
+.bloop/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Build output
+target/
+out/
+
+# Environment / secrets
+.env
+.env.*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
